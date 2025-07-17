@@ -28,3 +28,14 @@ print("a >= b:", a >= b)
 # Ex03:
 d=5>=5
 print("d =", d) #>= means greater than or equal to
+
+# Logical Operators
+# truth table of OR, AND and NOT operators
+print("True and True:", True and True)
+print("True and False:", True and False)            
+print("False and False:", False and False)
+print("True or True:", True or True)
+print("True or False:", True or False)  
+print("False or False:", False or False)    
+print("not True:", not True)
+print("not False:", not False)
