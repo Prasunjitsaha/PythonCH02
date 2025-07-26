@@ -18,6 +18,6 @@ c=str(a) + str(b)
 print("Concatenated string:", c)
 # ex02:
 a="10"
-b=int(a)
+b=int(a)+b
 
 print( b)
